@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hector.iml" filepath="$PROJECT_DIR$/hector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/hector_android.iml" filepath="$PROJECT_DIR$/android/hector_android.iml" />
     </modules>
   </component>
 </project>
